@@ -9,4 +9,4 @@ Disallow: /wp-admin/
 Disallow: /cgi-bin/
 
 # Indiquer le lien vers ton sitemap
-Sitemap: https://tonsite.com/sitemap.xml
+Sitemap: https://cryptoo-w3hb.onrender.com/sitemap.xml
