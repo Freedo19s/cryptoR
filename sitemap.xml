@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://trading-rentable.onrender.com/guide-trading-debutants</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
-```
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-### **2. Créer un fichier robots.txt**
-```
-User-agent: *
-Allow: /
-Sitemap: https://trading-rentable.onrender.com/sitemap.xml
+  <url>
+    <loc>https://trading-rentable.onrender.com/</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://trading-rentable.onrender.com/formation-trading</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://trading-rentable.onrender.com/robot-trading-automatique</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://trading-rentable.onrender.com/analyse-technique-trading</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>
