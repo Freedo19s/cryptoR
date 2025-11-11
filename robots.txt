@@ -1,0 +1,12 @@
+# robots.txt pour https://tonsite.com
+User-agent: *
+Allow: /
+
+# Interdire les fichiers sensibles
+Disallow: /admin/
+Disallow: /login/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+
+# Indiquer le lien vers ton sitemap
+Sitemap: https://tonsite.com/sitemap.xml
